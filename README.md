@@ -6,11 +6,17 @@
 ## Authors
 * [Brian-Ng'eno](https://github.com/BrianNgeno)
 
+## Prerequisites
+_What things you need to install the software and how to install them_
 
+_`Give the example`_
 ## License
 MIT License
 
 Copyright (c) 2018 BrianNg'eno
+
+
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

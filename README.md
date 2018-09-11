@@ -10,6 +10,16 @@
 _What things you need to install the software and how to install them_
 
 _`Give the example`_
+
+## Installing
+Say what the step will be
+_`Give the example`_
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+## Built With
+The web language/framework used
 ## License
 MIT License
 

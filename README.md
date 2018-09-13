@@ -10,11 +10,27 @@
 
 * [Leskey-Levy](https://github.com/leskeylevy)
 
+## Prerequisites
+_What things you need to install the software and how to install them_
+_`Give the example`_
+
+## Installing
+Say what the step will be
+_`Give the example`_
+
+## Deployment
+Add additional notes about how to deploy this on a live system
+
+## Built With
+The web language/framework used
 
 ## License
 MIT License
 
 Copyright (c) 2018 BrianNg'eno
+
+
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -6,9 +6,12 @@
 ## Authors
 * [Brian-Ng'eno](https://github.com/BrianNgeno)
 
+* [Bashir-Hassan](https://github.com/billowbashir)
+
+* [Leskey-Levy](https://github.com/leskeylevy)
+
 ## Prerequisites
 _What things you need to install the software and how to install them_
-
 _`Give the example`_
 
 ## Installing
@@ -16,10 +19,11 @@ Say what the step will be
 _`Give the example`_
 
 ## Deployment
-
 Add additional notes about how to deploy this on a live system
+
 ## Built With
 The web language/framework used
+
 ## License
 MIT License
 

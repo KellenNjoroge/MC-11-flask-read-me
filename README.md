@@ -5,6 +5,9 @@
 
 ## Authors
 * [Brian-Ng'eno](https://github.com/BrianNgeno)
+
+* [Bashir-Hassan](https://github.com/billowbashir)
+
 * [Leskey-Levy](https://github.com/leskeylevy)
 
 

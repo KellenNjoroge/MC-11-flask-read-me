@@ -5,7 +5,7 @@
 
 ## Authors
 * [Brian-Ng'eno](https://github.com/BrianNgeno)
-* [Leskey-Levy]
+* [Leskey-Levy](https://github.com/leskeylevy)
 
 
 ## License

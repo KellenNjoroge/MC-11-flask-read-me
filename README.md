@@ -10,6 +10,7 @@
 * [Bashir-Hassan](https://github.com/billowbashir)
 
 * [Leskey-Levy](https://github.com/leskeylevy)
+* [Kellen Njoroge](https://github.com/KellenNjoroge)
 
 ## Prerequisites
 _What things you need to install the software and how to install them_

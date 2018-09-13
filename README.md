@@ -5,6 +5,7 @@
 
 ## Authors
 * [Brian-Ng'eno](https://github.com/BrianNgeno)
+* [Austin Karuru](https://github.com/austinkaruru)
 
 * [Bashir-Hassan](https://github.com/billowbashir)
 
